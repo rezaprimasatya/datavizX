@@ -1,31 +1,3 @@
-# Nice to MET you
-
-**More than five hundreds Italian painting are now exhibited at Metropolitan Museum of Art, New York. What's the history behind these journeys?**
-
-Final Project of "Information Visualisation" (Prof. Marilena Daquino) at University of Bologna, MA "Digital Humanities and Digital Knowledge" (a.y. 2022/2023)
-
-## Main outcomes
-
-- Final website is available at the following [link](https://manueleveggi.github.io/infoviz/)
-- A brief presentation describing purposes and metodologies of this project is available at the following [link](https://docs.google.com/presentation/d/11YYI_wd2Yf3GqsPKDljPM8YxvV9XXNpfuBL-k9eSdpE/edit?usp=sharing)
-- Data analysis, manipulation and visualization are described in the following [documentation](https://github.com/ManueleVeggi/infoviz/blob/4de92e73e45ab80275a7b152790a50546cfc3534/documentation.ipynb)
-- To extract relevant information, source datasets (see below) have been modified through pandas library (Python). The output csv files are available here: 
-  - [[1]]() mashes up the content of MET Open Access CSV with the result of the query on Zeri&LODE dataset 
-  - [[2]](https://github.com/ManueleVeggi/infoviz/blob/8c167835b30a3f6009dc1050b2c8b3e8b0d91565/data_management/transfers.csv) streamlines the manipulation of the content of the column "Credit line" (MET Dataset)
-
-## Team members and statement of responsibility
-
-All members of the teams worked together in the definition of the focal domain of interest, in the retrieval of source data and in the final revision. The core parts of the workflow were divided as follows:  
-
-| Team member                                                         | Section            |
-|---------------------------------------------------------------------|--------------------|
-| [Ghasempouri Ali](mailto:seyedali.ghasempouri@studio.unibo.it)      | Data Visualization |
-| [Giacomini Sebastiano](mailto:sebastiano.giacomini@studio.unibo.it) | Data Analysis and Manipulation |
-| [Veggi Manuele](mailto:manuele.veggi@studio.unibo.it)               | Web Communication  |
-
-
-## References
-
 ### Source datasets
 
 Two main datasets have beel used
@@ -69,18 +41,3 @@ Visualizations and multimedia content presentations are created through the foll
 - [StoryMap - KnightLab](https://storymap.knightlab.com/)
 
 > Please note that to correctly visualize the assets included in the website **the used browser should enable mixed content**. As suggestion, read the following [tutorial](https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=it). 
-
-## License
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-If not stated otherwise, this work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-See [caveat](assets/zeriLetters/CopyrightLetters.md) for the reuse of some assets included in this repository and in the associated webpage.
