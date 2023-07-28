@@ -30,14 +30,3 @@ Other relevant resources have been:
 - Vasari, G. <i>Le vite dei più eccellenti pittori, scultori e architetti</i>. Guttemberg, 1876 ([link](https://books.google.it/books?hl=it&lr=&id=97PcyE3ksa4C&oi=fnd&pg=PA3&dq=vasari+vite&ots=m6DvwRDKtZ&sig=4-wbsqnw-NrFU_dCCeNVQzTeEz8&redir_esc=y#v=onepage&q=vasari%20vite&f=false)).
 
 As the historical and biographical reconstructions of main European and US art dealers is still ongoing by scholars, not always bibliographical resources were founded. The main pieces of information about the dealers are hence coming from the online articles published by the Metropolitan Museum of Art and, in the worst scenarios, from online encyclopedias (Wikipedia). 
-
-### Templates and libraries
-
-Used website template is available [here](https://github.com/BuckyMaler/global) and the layout was edited through [Bootstrap v 5.0.2](https://getbootstrap.com/).
-
-Visualizations and multimedia content presentations are created through the following libraries:
-- [Google Charts](https://developers.google.com/chart)
-- [Leaflet](https://leafletjs.com/)
-- [StoryMap - KnightLab](https://storymap.knightlab.com/)
-
-> Please note that to correctly visualize the assets included in the website **the used browser should enable mixed content**. As suggestion, read the following [tutorial](https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=it). 
